@@ -1,1 +1,2 @@
+LINK: https://www.researchgate.net/publication/365104414_A_Horizontal_Federated_Random_Forest_for_Heart_Disease_Detection_from_Decentralized_Local_Data 
 
