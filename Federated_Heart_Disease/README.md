@@ -51,6 +51,8 @@ I worked on a federated learning-based heart disease detection system using Pyth
 
 ***Key Takeaways***
 
-**Data Privacy:** Patients’ data remained local, ensuring compliance with regulations like GDPR. Federated Learning Efficiency: Model performance improved with each iteration without requiring centralized data collection. 
+**Data Privacy:** Patients’ data remained local, ensuring compliance with regulations like GDPR. 
+
+**Federated Learning Efficiency:** Model performance improved with each iteration without requiring centralized data collection. 
 
 **Scalability:** This approach can be extended to other diseases and healthcare applications.
