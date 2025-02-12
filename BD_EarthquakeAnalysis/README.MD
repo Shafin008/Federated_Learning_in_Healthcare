@@ -59,13 +59,13 @@ Exploratory Data Analysis (EDA) on earthquake data from Bangladesh (1970-2021). 
 
 - Graph Used: Scatter Plot of Latitude vs. Longitude with Magnitude (sns.scatterplot)
 
-- Findings:
+**Findings:**
 
     - Earthquakes were concentrated near border regions and coastal areas (Bay of Bengal).
 
     - Higher magnitude earthquakes (≥4.0) were scattered across multiple regions.
 
-** D. Relationship Between Magnitude and Depth**
+**D. Relationship Between Magnitude and Depth**
 
 - Graph Used: Hexbin Plot (sns.jointplot(kind='hex'))
 
@@ -91,7 +91,7 @@ Exploratory Data Analysis (EDA) on earthquake data from Bangladesh (1970-2021). 
 
 **F. Daily Trends of Earthquakes**
 
-** Graphs Used:**
+- Graphs Used:
 
     - Bar Plot of Magnitude by Day of the Month
 
