@@ -3,6 +3,11 @@
 ### Overview
 I worked on a federated learning-based heart disease detection system using Python. The goal was to create a machine learning model that predicts heart disease while ensuring patient data privacy. The project utilized `Horizontal Federated Learning (HFL)` and a Random Forest classifier to enable multiple hospitals to collaboratively train a model without sharing sensitive data.
 
+
+<p align="center"><img title="a title" alt="Alt text" src="https://www.dailydoseofds.com/content/images/2023/11/federated-gif.gif" width="50%"></p>
+
+
+
 ### Execution Steps
 
 **1. Dataset Preparation**
