@@ -117,11 +117,11 @@ Exploratory Data Analysis (EDA) on earthquake data from Bangladesh (1970-2021). 
 
 ### Key Takeaways**
 
-**Earthquake Activity in Bangladesh is Moderate:** Most earthquakes have a magnitude below 4.0.
+**1. Earthquake Activity in Bangladesh is Moderate:** Most earthquakes have a magnitude below 4.0.
 
-**Shallow Earthquakes are More Common:** Most earthquakes occur at depths of 0-50 km, which can have surface-level impacts.
+**2. Shallow Earthquakes are More Common:** Most earthquakes occur at depths of 0-50 km, which can have surface-level impacts.
 
-**Geographical Risk Areas Identified:** The Bay of Bengal and border regions experience frequent earthquakes. 
+**3. Geographical Risk Areas Identified:** The Bay of Bengal and border regions experience frequent earthquakes. 
 
-**Increasing Trend Over Decades:** More earthquakes have been recorded over time, possibly due to better monitoring systems.
+**4. Increasing Trend Over Decades:** More earthquakes have been recorded over time, possibly due to better monitoring systems.
 
