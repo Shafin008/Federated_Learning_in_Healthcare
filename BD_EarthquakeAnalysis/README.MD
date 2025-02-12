@@ -115,7 +115,7 @@ Exploratory Data Analysis (EDA) on earthquake data from Bangladesh (1970-2021). 
 
     - This could be due to better monitoring technology rather than an actual increase in earthquakes.
 
-### Key Takeaways**
+### Key Takeaways
 
 **1. Earthquake Activity in Bangladesh is Moderate:** Most earthquakes have a magnitude below 4.0.
 
