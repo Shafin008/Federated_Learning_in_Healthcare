@@ -1,4 +1,4 @@
-## Research: Privacy-Preserving Heart Disease Detection Using Random Forest
+## Research: Privacy-Preserving Heart Disease Detection Using Federated Random Forest
 
 ### Overview
 We worked on a federated learning-based heart disease detection system using Python. The goal was to create a machine-learning model that predicts heart disease while ensuring patient data privacy. The project utilized `Horizontal Federated Learning (HFL)` and a Random Forest classifier to enable multiple hospitals to collaboratively train a model without sharing sensitive data.
